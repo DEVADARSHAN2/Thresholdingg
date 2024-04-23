@@ -85,20 +85,27 @@ for i in range(0,9):
 
 ### Original Image
 
-![Screenshot 2024-04-23 102955](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/4137909a-24c1-4a23-a3c7-760093384ed7)
+![Screenshot 2024-04-23 105312](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/ae1995f9-b63c-4df5-8113-d88d45b96125)
 
 ### Global Thresholding
-![Screenshot 2024-04-23 103032](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/c60f884c-d0b4-4f00-905b-785ffd97b489)
-![Screenshot 2024-04-23 103106](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/53f6a3fa-3443-416c-b70d-44b2d1139acb)
+![Screenshot 2024-04-23 105319](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/db3a5816-a297-437d-ab89-9972c3d9e4e3)
+![Screenshot 2024-04-23 105327](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/b447bbd4-de73-4235-87b2-7317e10f55e6)
+![Screenshot 2024-04-23 105333](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/7f57e2f2-9465-490c-8815-62454363d545)
+![Screenshot 2024-04-23 105344](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/ca913d16-b39d-47cb-83ba-c5491e24398f)
+![Screenshot 2024-04-23 105349](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/8d93209b-ae35-4701-8e40-b4c9749e6af2)
+
+
+
 
 
 
 ### Adaptive Thresholding
-![Screenshot 2024-04-23 103201](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/cf03a54b-87d8-4d90-9c14-e65acbf23512)
+![Screenshot 2024-04-23 105400](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/37f586e2-5eb1-42f7-b561-c9a0d355ab87)
+![Screenshot 2024-04-23 105407](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/d1d53e11-3a43-49c5-8ee5-71c257989fe3)
 
 
 ### Optimum Global Thesholding using Otsu's Method
-![Screenshot 2024-04-23 103207](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/6d9c6f65-651d-48ec-a752-b4a56051f27f)
+![Screenshot 2024-04-23 105413](https://github.com/DEVADARSHAN2/Thresholdingg/assets/119432150/5db89216-960d-45c5-b832-f968e47670c3)
 
 
 
